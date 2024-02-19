@@ -12,7 +12,6 @@ questions.forEach(function(question){
     });
 });
 
-
 // second way
 // traversing the dom
 
