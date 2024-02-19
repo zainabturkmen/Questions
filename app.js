@@ -9,7 +9,9 @@ questions.forEach(function(question){
 
     question.addEventListener("click", function(){
 
-        question.
+        question.forEach(function(item){
+
+        });
 
 
 
