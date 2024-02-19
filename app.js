@@ -14,7 +14,6 @@ questions.forEach(function(question){
                 item.classList.remove("show-text")
             }
         });
-
         question.classList.toggle("show-text")
     });
 });
