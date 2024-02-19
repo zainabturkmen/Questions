@@ -8,6 +8,11 @@ questions.forEach(function(question){
     const btn = question.querySelector(".question-btn");
 
     question.addEventListener("click", function(){
+
+        question.
+
+
+
         question.classList.toggle("show-text")
     });
 });
