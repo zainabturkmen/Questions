@@ -5,7 +5,7 @@ const questions = document.querySelectorAll(".question")
 questions.forEach(function(btn){
     btn.addEventListener(function(e){
 
-    })
+    });
 });
 
 
