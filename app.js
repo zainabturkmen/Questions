@@ -11,7 +11,7 @@ questions.forEach(function(question){
 
         question.forEach(function(item){
             if(item !== question){
-                
+                item.classList.remove("show-text")
             }
         });
 
