@@ -8,7 +8,7 @@ questions.forEach(function(question){
 
     question.addEventListener("click", function(){
         question.classList.toggle("show-text")
-    })
+    });
 });
 
 
