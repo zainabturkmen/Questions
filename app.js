@@ -9,7 +9,7 @@ questions.forEach(function(question){
 
     question.addEventListener("click", function(){
 
-        question.forEach(function(item){
+        questions.forEach(function(item){
             if(item !== question){
                 item.classList.remove("show-text")
             }
