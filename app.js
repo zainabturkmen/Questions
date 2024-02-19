@@ -10,7 +10,9 @@ questions.forEach(function(question){
     question.addEventListener("click", function(){
 
         question.forEach(function(item){
-
+            if(item !== question){
+                
+            }
         });
 
 
