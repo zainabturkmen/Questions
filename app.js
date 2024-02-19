@@ -1,4 +1,5 @@
 //using selectors inside the element
+// First way 
 
 const questions = document.querySelectorAll(".question")
 
@@ -11,7 +12,7 @@ questions.forEach(function(question){
     });
 });
 
-
+// second way
 // traversing the dom
 
 // const btns = document.querySelectorAll(".question-btn");
