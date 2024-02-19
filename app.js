@@ -7,4 +7,4 @@ btns.forEach(function(btn){
     btn.addEventListener("click", function(){
 
     })
-})
+});
