@@ -4,6 +4,8 @@
 const btns = document.querySelectorAll(".question-btn");
 
 btns.forEach(function(btn){
-    forEach.btn
+    btn.addEventListener("click", function(){
+        
+    })
 })
 
